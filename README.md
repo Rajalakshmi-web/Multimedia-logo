@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="220" alt="StrumX Logo"/>
+  <img src="StrumX.png" width="220" alt="StrumX Logo"/>
 </p>
 
 <h1 align="center">🎸 StrumX - Animated Music Logo Website</h1>
