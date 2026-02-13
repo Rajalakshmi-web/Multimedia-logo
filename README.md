@@ -1,29 +1,7 @@
-<p align="center">
-  <img src="StrumX.png" width="220" alt="StrumX Logo"/>
-</p>
-
-<h1 align="center">🎸 StrumX - Animated Music Logo Website</h1>
-
-<p align="center">
-  <b>A stylish animated music logo landing page built using pure HTML & CSS</b>
-</p>
-
-<p align="center">
-  <a href="https://YOUR-GITHUB-USERNAME.github.io/StrumX/">
-    <img src="https://img.shields.io/badge/🌐 Live-Demo-red?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge">
-</p>
-
----
 
 # 🚀 Live Demo
 
-👉 https://YOUR-GITHUB-USERNAME.github.io/StrumX/
-
-(Replace **YOUR-GITHUB-USERNAME** with your GitHub username)
+👉 https://rajalakshmi-web.github.io/Multimedia-logo/
 
 ---
 
