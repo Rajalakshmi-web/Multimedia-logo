@@ -1,10 +1,4 @@
 
-# 🚀 Live Demo
-
-👉 https://rajalakshmi-web.github.io/Multimedia-logo/
-
----
-
 # 📖 About the Project
 
 **StrumX** is a modern animated logo webpage designed for music platforms, portfolios, and branding.  
